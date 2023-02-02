@@ -1,0 +1,26 @@
+{
+  "name": "fetcher-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jquery": "^3.6.1",
+    "jsdom": "^20.0.0",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^2.6.8",
+    "nodemon": "^2.0.19",
+    "websocket": "^1.0.34",
+    "xlsx": "^0.17.4"
+  },
+  "description": ""
+}
